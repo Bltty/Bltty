@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bity
+- 👋 Hi, I’m @Bitty
 - 👀 I’m interested in Gaming, Python 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on create my bot on stream and greate game when im learn Python
